@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/igorjuancc/igorjuancc/blob/main/imagens/avatar.png" width="170vw" height="230vh" />
+<img align="left" src="https://github.com/igorjuancc/igorjuancc/blob/main/imagens/avatar.png" width="160vw" height="230vh" />
 
 ## Igor Juan Cordeiro da Costa
 
