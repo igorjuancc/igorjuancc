@@ -12,9 +12,23 @@
 
 ##
 
-![Snake animation](https://github.com/igorjuancc/igorjuancc/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <a href="https://github.com/igorjuancc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorjuancc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjuancc&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  ![Snake animation](https://github.com/igorjuancc/igorjuancc/blob/output/github-contribution-grid-snake.svg)
+</div>
+  
 ##
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70vw" height="70vh" />
-
-
+  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50vw" height="70vh" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50vw" height="50vh" />
+  <img src="https://github.com/igorjuancc/igorjuancc/blob/main/imagens/pascal.png" width="47vw" height="47vh" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50vw" height="50vh" />  
+  <img src="https://github.com/igorjuancc/igorjuancc/blob/main/imagens/primefaces.png" width="50vw" height="50vh" />
+  <img src="https://github.com/igorjuancc/igorjuancc/blob/main/imagens/jsf.png" width="70vw" height="50vh" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50vw" height="50vh"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50vw" height="50vh"/>
+</div>
