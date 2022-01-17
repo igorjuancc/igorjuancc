@@ -28,7 +28,8 @@
   <img src="https://github.com/igorjuancc/igorjuancc/blob/main/imagens/pascal.png" width="47vw" height="47vh" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50vw" height="50vh" />  
   <img src="https://github.com/igorjuancc/igorjuancc/blob/main/imagens/primefaces.png" width="50vw" height="50vh" />
-  <img src="https://github.com/igorjuancc/igorjuancc/blob/main/imagens/jsf.png" width="70vw" height="50vh" />   
+  <img src="https://github.com/igorjuancc/igorjuancc/blob/main/imagens/jsf.png" width="70vw" height="50vh" />  
+  <img src="https://github.com/igorjuancc/igorjuancc/blob/main/imagens/vba.png" width="70vw" height="50vh" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50vw" height="50vh"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50vw" height="50vh"/>
 </div>
