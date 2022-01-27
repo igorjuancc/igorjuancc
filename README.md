@@ -20,6 +20,14 @@
   ![Snake animation](https://github.com/igorjuancc/igorjuancc/blob/output/github-contribution-grid-snake.svg)
 </div>
   
+## Projetos  
+  
+  * Java
+      * [SGR - Sistema de Gerenciamento Residencial](https://github.com/igorjuancc/SGR) (*WEB*)
+      * [Laboratório Java](https://github.com/igorjuancc/LaboratorioJava) (*CLI*)
+  * Outros
+      * [Guias e Tutoriais](https://github.com/igorjuancc/guia)   
+      * [BiblioDoc - Documentação de Projetos](https://github.com/igorjuancc/BiblioDoc)
 ##
   
 <div align="center">
