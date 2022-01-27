@@ -26,6 +26,8 @@
   * Java
       * [SGR - Sistema de Gerenciamento Residencial](https://github.com/igorjuancc/SGR) (*WEB*)
       * [Laboratório Java](https://github.com/igorjuancc/LaboratorioJava) (*CLI*)
+  * C
+      * [ADC - Agenda Digital de Compromissos](https://github.com/igorjuancc/ADC) (*CLI*)
   * Outros
       * [Guias e Tutoriais](https://github.com/igorjuancc/guia)   
       * [BiblioDoc - Documentação de Projetos](https://github.com/igorjuancc/BiblioDoc)
