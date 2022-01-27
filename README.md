@@ -14,20 +14,23 @@
 
 <div align="center">
   <a href="https://github.com/igorjuancc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorjuancc&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjuancc&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorjuancc&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjuancc&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true" />
   
   ![Snake animation](https://github.com/igorjuancc/igorjuancc/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
+    
 ## Projetos  
-  
+
+<!--ts-->  
   * Java
       * [SGR - Sistema de Gerenciamento Residencial](https://github.com/igorjuancc/SGR) (*WEB*)
       * [Laboratório Java](https://github.com/igorjuancc/LaboratorioJava) (*CLI*)
   * Outros
       * [Guias e Tutoriais](https://github.com/igorjuancc/guia)   
       * [BiblioDoc - Documentação de Projetos](https://github.com/igorjuancc/BiblioDoc)
+<!--te-->
+  
 ##
   
 <div align="center">
