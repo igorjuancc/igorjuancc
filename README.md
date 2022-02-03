@@ -26,6 +26,7 @@
   * Java
       * [SGR - Sistema de Gerenciamento Residencial](https://github.com/igorjuancc/SGR) (*WEB*)
       * [Laboratório Java](https://github.com/igorjuancc/LaboratorioJava) (*CLI*)
+      * [Desafio Tunts](https://github.com/igorjuancc/desafio-tunts) (*CLI*) 
   * C
       * [ADC - Agenda Digital de Compromissos](https://github.com/igorjuancc/ADC) (*CLI*)
   * Outros
