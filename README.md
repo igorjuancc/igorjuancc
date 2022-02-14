@@ -33,6 +33,7 @@
       * [ADC - Agenda Digital de Compromissos](https://github.com/igorjuancc/ADC) (*CLI*)
   * PHP
       * [Controle de Clientes](https://github.com/igorjuancc/controle-clientes) (*WEB*)
+      * [Controle Financeiro](https://github.com/igorjuancc/controle-financeiro) (*WEB*)
   * Outros
       * [Guias e Tutoriais](https://github.com/igorjuancc/guia)   
       * [BiblioDoc - Documentação de Projetos](https://github.com/igorjuancc/BiblioDoc)
