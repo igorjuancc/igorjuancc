@@ -25,6 +25,7 @@
 <!--ts-->  
   * Java
       * [SGR - Sistema de Gerenciamento Residencial](https://github.com/igorjuancc/SGR) (*WEB*)
+      * [SIJOGA - Sistema Jurídico On-line Para Grandes Administrações](https://github.com/igorjuancc/sijoga) (*WEB*) (*Webservice Rest*)
       * [Laboratório Java](https://github.com/igorjuancc/LaboratorioJava) (*CLI*)
       * [Desafio Tunts](https://github.com/igorjuancc/desafio-tunts) (*CLI*) 
       * [Desafio Dio Banco Digital](https://github.com/igorjuancc/desafio-dio-banco) (*CLI*)
