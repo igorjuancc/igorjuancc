@@ -29,8 +29,6 @@
       * [SOSIFOD - Sistema Online Sobre Informações Factíveis de Oficiais de Justiça Do Paraná](https://github.com/igorjuancc/sosifod) (*WEB*) (*Webservice Rest*)
       * [Laboratório Java](https://github.com/igorjuancc/LaboratorioJava) (*CLI*)
       * [Desafio Tunts](https://github.com/igorjuancc/desafio-tunts) (*CLI*) 
-      * [Desafio Dio Banco Digital](https://github.com/igorjuancc/desafio-dio-banco) (*CLI*)
-      * [Exercícios Bootcamp GFT Start #4 Java](https://github.com/igorjuancc/dio-desafio-github/tree/main/Exercicios) (*CLI*)
   * C
       * [ADC - Agenda Digital de Compromissos](https://github.com/igorjuancc/ADC) (*CLI*)
   * PHP
@@ -39,7 +37,7 @@
   * Outros
       * [Guias e Tutoriais](https://github.com/igorjuancc/guia)   
       * [BiblioDoc - Documentação de Projetos](https://github.com/igorjuancc/BiblioDoc)
-      * [Desafio Dio GitHub](https://github.com/igorjuancc/dio-desafio-github)
+      * [Atividades Plataforma DIO](https://github.com/igorjuancc/dio)
 <!--te-->
   
 ##
