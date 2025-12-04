@@ -2,7 +2,7 @@
 
  ### Igor Juan Cordeiro da Costa
 
-- 👨‍💻 Desenvolvedor Full Stack | ☕ Java | 🚦 Perkons S/A
+- 👨‍💻 Desenvolvedor Full Stack | ☕ Java | 🇦 Angular
 - 🚀 Desenvolvimento Ágil de Software | 🏛️ Universidade Federal do Paraná
 - 🖥️ Análise e Desenvolvimento de Sistemas | 🏛️ Universidade Federal do Paraná 
 - 🔌 Técnico em Eletrônica | 🏫 CEEP Curitiba
