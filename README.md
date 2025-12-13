@@ -15,11 +15,17 @@
 
 <!--ts-->  
   * Java
-      * [SGR - Sistema de Gerenciamento Residencial](https://github.com/igorjuancc/SGR) (*WEB*)
-      * [SIJOGA - Sistema Jurídico On-line Para Grandes Administrações](https://github.com/igorjuancc/sijoga) (*WEB*) (*Webservice Rest*)
-      * [SOSIFOD - Sistema Online Sobre Informações Factíveis de Oficiais de Justiça Do Paraná](https://github.com/igorjuancc/sosifod) (*WEB*) (*Webservice Rest*)
+      * **Spring Boot**
+        * [API Cadastro de Pessoas](https://github.com/igorjuancc/das-ufpr/tree/main/web2/crud-spring)
+      * **JSF**
+        * [Sistema de Gerenciamento Residencial - SGR](https://github.com/igorjuancc/SGR) (*WEB*)
+        * [Sistema Jurídico On-line Para Grandes Administrações - SIJOGA](https://github.com/igorjuancc/sijoga) (*WEB*) (*Webservice Rest*)
+        * [Sistema Online Sobre Informações Factíveis de Oficiais de Justiça Do Paraná - SOSIFOD](https://github.com/igorjuancc/sosifod) (*WEB*) (*Webservice Rest*)
       * [Laboratório Java](https://github.com/igorjuancc/LaboratorioJava) (*CLI*)
       * [Desafio Tunts](https://github.com/igorjuancc/desafio-tunts) (*CLI*) 
+  * Angular
+      * **Bootstrap**
+        * [Cadastro de Pessoas](https://github.com/igorjuancc/das-ufpr/tree/main/web2/crud-pessoa)
   * C
       * [ADC - Agenda Digital de Compromissos](https://github.com/igorjuancc/ADC) (*CLI*)
   * PHP
